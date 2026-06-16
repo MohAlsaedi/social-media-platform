@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a2d8f613c81878216e9ab78"
+  },
+  "name": "Sara",
+  "age": 20,
+  "email": "sara@tst.com",
+  "geneder": "female"
+},
+{
+  "_id": {
+    "$oid": "6a2d8f613c81878216e9ab79"
+  },
+  "name": "Noura",
+  "age": 20,
+  "email": "noura@tst.com",
+  "gender": "female"
+},
+{
+  "_id": {
+    "$oid": "6a2d8f613c81878216e9ab7a"
+  },
+  "name": "Ahmed",
+  "age": 22,
+  "email": "ahmed@tst.com",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "6a2d8f613c81878216e9ab7b"
+  },
+  "name": "Yasser",
+  "age": 25,
+  "email": "yasser@tst.com",
+  "gender": "male"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6a2f3fc6ea2dd1f3dd53c055"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab78"
+  },
+  "title": "IOS programming",
+  "content": "Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond"
+},
+{
+  "_id": {
+    "$oid": "6a2f3fc6ea2dd1f3dd53c056"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab79"
+  },
+  "title": "Android programming",
+  "content": "you learn beginning Android programming concepts using the Kotlin programming language, and you build a variety of apps using Android Studio."
+},
+{
+  "_id": {
+    "$oid": "6a2f3fc6ea2dd1f3dd53c057"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab79"
+  },
+  "title": "Machine learning",
+  "content": "Machine learning is the study of computer algorithms that improve automatically through experience"
+},
+{
+  "_id": {
+    "$oid": "6a2f3fc6ea2dd1f3dd53c058"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab7b"
+  },
+  "title": "Artificial intelligence",
+  "content": "Artificial intelligence, is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals"
+}]

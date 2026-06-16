@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6a2ec80dea2dd1f3dd53c051"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab78"
+  },
+  "following": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab79"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7a"
+    }
+  ],
+  "follower": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab79"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2efb69ea2dd1f3dd53c052"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab79"
+  },
+  "following": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab7b"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab78"
+    }
+  ],
+  "follower": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab79"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2efb69ea2dd1f3dd53c053"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab7b"
+  },
+  "following": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab78"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab79"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7a"
+    }
+  ],
+  "follower": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab79"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2efb69ea2dd1f3dd53c054"
+  },
+  "user_id": {
+    "$oid": "6a2d8f613c81878216e9ab7a"
+  },
+  "following": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab7b"
+    }
+  ],
+  "follower": [
+    {
+      "$oid": "6a2d8f613c81878216e9ab78"
+    },
+    {
+      "$oid": "6a2d8f613c81878216e9ab7b"
+    }
+  ]
+}]
